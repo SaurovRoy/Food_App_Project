@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "267510667284",
+    "project_id": "efood-a272a",
+    "storage_bucket": "efood-a272a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267510667284:android:3bc35e9de4875022ff2f01",
+        "android_client_info": {
+          "package_name": "com.example.efood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267510667284-scjplr9knc24tsi4bm4qi2htbo7qoea5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.efood",
+            "certificate_hash": "8cc07514265ff02c3e763ad83ee9138b9518a7f3"
+          }
+        },
+        {
+          "client_id": "267510667284-2tv7oo1tr3sejtecgcc1h0eu22d5gllo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYJA80Ixa4S6jYB9mfsPEX-S0LOkePALg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267510667284-2tv7oo1tr3sejtecgcc1h0eu22d5gllo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
